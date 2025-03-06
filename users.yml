@@ -1,4 +1,5 @@
 
 users:
   firebaseUrl: "default-url"
+  databasePassword: "{cipher}41c74132d5e9e1935ced1e2f58751d0005d5e98998698fbd86a071a993a02b2470f014c0564d1ac6522bc4ac91f8a9d1"
 

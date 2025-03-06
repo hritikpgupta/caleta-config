@@ -1,2 +1,3 @@
-database:
+
+users:
   firebaseUrl: "dev-url"
